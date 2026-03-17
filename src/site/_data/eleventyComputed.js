@@ -1,9 +1,9 @@
-module.exports = {
-  permalink: data => {
-    // Se já tiver permalink definido (como o seu), respeita
-    if (data.permalink) return data.permalink;
+const { getGraph } = require("../../helpers/linkUtils");
+const { getFileTree } = require("../../helpers/filetreeUtils");
+const { userComputed } = require("../../helpers/userUtils");
 
-    // Senão, gera automático baseado no nome do arquivo
-    return `${data.page.fileSlug}/index.html`;
-  }
+module.exports = {
+  graph: async (data) => await getGraph(data),
+  filetree: (data) => getFileTree(data),
+  userComputed: (data) => userComputed(data)
 };

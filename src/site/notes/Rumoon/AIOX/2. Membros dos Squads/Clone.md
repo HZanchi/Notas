@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/rumoon/aiox/2-membros-dos-squads/clone/","tags":["rumoon"]}
----
-
-
-O **Clone** é uma **versão personalizada de um modelo de IA**, configurada para desempenhar uma função específica dentro do squad. Ele pode possuir instruções, conhecimentos ou comportamentos próprios, permitindo que diferentes clones atuem como especialistas em áreas distintas, mesmo utilizando o mesmo modelo base.

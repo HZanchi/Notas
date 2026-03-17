@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rumoon/aiox/2-membros-dos-squads/analista/","tags":["rumoon","gardenEntry"]}
+{"dg-publish":true,"permalink":"/rumoon/aiox/2-membros-dos-squads/analista/","tags":["rumoon"]}
 ---
 
 

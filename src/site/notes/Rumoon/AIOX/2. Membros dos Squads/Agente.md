@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rumoon/aiox/2-membros-dos-squads/agente/","tags":["rumoon","gardenEntry"]}
+{"dg-publish":true,"permalink":"/rumoon/aiox/2-membros-dos-squads/agente/","tags":["rumoon"]}
 ---
 
 

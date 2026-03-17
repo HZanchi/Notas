@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rumoon/aiox/1-informacoes/oportunidades/","tags":["rumoon","gardenEntry"]}
+{"dg-publish":true,"permalink":"/rumoon/aiox/1-informacoes/oportunidades/","tags":["rumoon"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rumoon/aiox/conteudos-extras/videos/","tags":["rumoon","gardenEntry"]}
+{"dg-publish":true,"permalink":"/rumoon/aiox/conteudos-extras/videos/","tags":["rumoon"]}
 ---
 
 

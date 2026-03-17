@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rumoon/implementacao-projeto/implantar-aiox/","tags":["rumoon","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Rumoon/implementacao_projeto/implantarAIOX/","tags":["rumoon","gardenEntry"]}
 ---
 
 

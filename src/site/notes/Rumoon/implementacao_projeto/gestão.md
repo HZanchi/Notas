@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rumoon/implementacao-projeto/gestao/","tags":["rumoon","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Rumoon/implementacao_projeto/gestão/","tags":["rumoon","gardenEntry"]}
 ---
 
 ## Funções

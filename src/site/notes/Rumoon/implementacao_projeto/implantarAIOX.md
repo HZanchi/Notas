@@ -46,4 +46,4 @@ Custos ( caso tenham custos mapeados em cada fase colocar sejam eles de horas pr
 
  ### OBS:
 - O gasto de tokens pode ser reduzido se as especificações dos arquivos consultados for clara e objetiva, assim a ia não precisa "Adivinhar" onde colocar os arquivos.
-- Ter uma área apenas para modelos de textos que a IA deve usar, assim, se algum texto não sair como planejado, todos os modelos já vão estar no mesmo local.
+- Ter uma área apenas para modelos de textos que a IA deve usar, assim, se algum texto não sair como planejado, todos os modelos já vão estar no mesmo local. 

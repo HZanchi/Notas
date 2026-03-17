@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rumoon/aiox/1-informacoes/aiox-infos/","tags":["rumoon"]}
+{"dg-publish":true,"permalink":"/rumoon/aiox/1-informacoes/aiox-infos/","tags":["rumoon","gardenEntry"]}
 ---
 
 

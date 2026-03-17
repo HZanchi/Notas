@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rumoon/aiox/2-membros-squads/worker/","tags":["rumoon"]}
+{"dg-publish":true,"permalink":"/rumoon/aiox/2-membros-squads/worker/","tags":["rumoon","gardenEntry"]}
 ---
 
 

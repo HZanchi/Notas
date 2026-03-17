@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rumoon/aiox/1-informacoes/workflow-sem-ia/","tags":["rumoon"]}
+{"dg-publish":true,"permalink":"/rumoon/aiox/1-informacoes/workflow-sem-ia/","tags":["rumoon","gardenEntry"]}
 ---
 
 

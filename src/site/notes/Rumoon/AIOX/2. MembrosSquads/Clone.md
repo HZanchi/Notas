@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rumoon/aiox/2-membros-squads/clone/","tags":["rumoon"]}
+{"dg-publish":true,"permalink":"/rumoon/aiox/2-membros-squads/clone/","tags":["rumoon","gardenEntry"]}
 ---
 
 

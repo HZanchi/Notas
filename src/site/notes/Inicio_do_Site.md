@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inicio-do-site/","tags":["Inicio","gardenEntry"]}
+{"dg-publish":true,"permalink":"/inicio-do-site/","tags":["rumoon","gardenEntry"]}
 ---
 
 # Olá :)
